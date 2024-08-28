@@ -18,7 +18,11 @@ Log the progress of the code with appropriate timestamps.
 
 ## Libraries 
 python3.11 -m pip install requests 
+
 python3.11 -m pip install pandas
+
 python3.11 -m pip install numpy
+
 python3.11 -m pip install bs4
+
 python3.11 -m pip install datetime
