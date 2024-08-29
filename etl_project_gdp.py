@@ -87,4 +87,4 @@ log_progress('Data loaded to Database as table. Running the query')
 query_statement = f"SELECT * from {table_name} WHERE GDP_USD_billions >= 100"
 run_query(query_statement, sql_connection)
 log_progress('Process Complete.')
-sql_connection.close()https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29
+sql_connection.close()
